@@ -1,0 +1,18 @@
+*.gem
+*.bundle
+.bundle
+.config
+Gemfile.lock
+pkg/*
+tmp/*
+vendor/bundle
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
